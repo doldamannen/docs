@@ -1,6 +1,5 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Searchwipe One",
   "logo": {
     "dark": "https://assets.tina.io/487a832a-c6a0-47e2-8e72-888bc4abc2f5/searchwipe.one.svg",
     "light": "https://assets.tina.io/487a832a-c6a0-47e2-8e72-888bc4abc2f5/light_searchwipe.svg"
@@ -18,13 +17,9 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:contact@searchwipe.com"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
   "tabs": [
     {
       "name": "API Reference",
