@@ -5,14 +5,14 @@
     "dark": "https://assets.tina.io/487a832a-c6a0-47e2-8e72-888bc4abc2f5/searchwipe.one.svg",
     "light": "https://assets.tina.io/487a832a-c6a0-47e2-8e72-888bc4abc2f5/light_searchwipe.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://assets.tina.io/487a832a-c6a0-47e2-8e72-888bc4abc2f5/asd.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#B3B3B3",
+    "light": "#D1D1D1",
+    "dark": "#D1D1D1",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#D1D1D1",
+      "to": "#B3B3B3"
     }
   },
   "topbarLinks": [
