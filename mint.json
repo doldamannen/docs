@@ -1,10 +1,10 @@
 {
   "name": "Searchwipe One",
   "logo": {
-    "dark": "https://assets.tina.io/487a832a-c6a0-47e2-8e72-888bc4abc2f5/searchwipe.one.svg",
-    "light": "https://assets.tina.io/487a832a-c6a0-47e2-8e72-888bc4abc2f5/light_searchwipe.svg"
+    "dark": "https://assets.tina.io/487a832a-c6a0-47e2-8e72-888bc4abc2f5/AN0N2.svg",
+    "light": "https://assets.tina.io/487a832a-c6a0-47e2-8e72-888bc4abc2f5/AN0N.svg"
   },
-  "favicon": "https://assets.tina.io/487a832a-c6a0-47e2-8e72-888bc4abc2f5/favicon.ico",
+  "favicon": "https://assets.tina.io/487a832a-c6a0-47e2-8e72-888bc4abc2f5/favicon.svg",
   "colors": {
     "primary": "#B3B3B3",
     "light": "#D1D1D1",
